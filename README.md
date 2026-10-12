@@ -1,14 +1,14 @@
 # Iowa registered construction contractors
 
-Every construction contractor registered with the State of Iowa under Iowa Code ch. 91C: 17,803 businesses,
-99 counties, 32 trades, as exported by the State on September 21, 2026.
+Every construction contractor registered with the State of Iowa under Iowa Code ch. 91C: 17,993 businesses,
+99 counties, 31 trades, as exported by the State on October 5, 2026.
 
 Compiled by Iowa's Best Contractors (https://contractiowa.com). Method and definitions:
 https://contractiowa.com/methodology
 
 ## Cite this dataset
 
-Iowa's Best Contractors (contractiowa.com), Iowa registered construction contractors, compiled from the State of Iowa contractor registration record (Iowa Code ch. 91C), exported September 21, 2026.
+Iowa's Best Contractors (contractiowa.com), Iowa registered construction contractors, compiled from the State of Iowa contractor registration record (Iowa Code ch. 91C), exported October 5, 2026.
 https://contractiowa.com/methodology
 
 ## Source
