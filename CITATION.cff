@@ -6,8 +6,8 @@ abstract: "Every construction contractor registered with the State of Iowa under
 authors:
   - name: "Iowa's Best Contractors"
     website: "https://contractiowa.com"
-version: "2026-10-05"
-date-released: 2026-10-05
+version: "2026-11-02"
+date-released: 2026-11-02
 license: CC0-1.0
 url: "https://contractiowa.com/methodology"
 repository-code: "https://github.com/My-Contractors/iowa-registered-contractors-data"
